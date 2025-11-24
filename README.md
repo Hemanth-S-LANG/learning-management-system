@@ -216,7 +216,7 @@ This project is open source and available under the MIT License.
 
 ## 👨‍💻 Author
 
-Created with ❤️ by [Your Name]
+Created with ❤️ by [Hemanth S]
 
 ## 🙏 Acknowledgments
 
@@ -227,4 +227,4 @@ Created with ❤️ by [Your Name]
 
 ---
 
-**Happy Learning! 📚✨**
+
